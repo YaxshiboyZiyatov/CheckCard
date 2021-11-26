@@ -1,0 +1,14 @@
+E:\.net\CheckCard\CheckCard\bin\Debug\netcoreapp3.1\CheckCard.exe
+E:\.net\CheckCard\CheckCard\bin\Debug\netcoreapp3.1\CheckCard.deps.json
+E:\.net\CheckCard\CheckCard\bin\Debug\netcoreapp3.1\CheckCard.runtimeconfig.json
+E:\.net\CheckCard\CheckCard\bin\Debug\netcoreapp3.1\CheckCard.runtimeconfig.dev.json
+E:\.net\CheckCard\CheckCard\bin\Debug\netcoreapp3.1\CheckCard.dll
+E:\.net\CheckCard\CheckCard\bin\Debug\netcoreapp3.1\CheckCard.pdb
+E:\.net\CheckCard\CheckCard\obj\Debug\netcoreapp3.1\CheckCard.csproj.AssemblyReference.cache
+E:\.net\CheckCard\CheckCard\obj\Debug\netcoreapp3.1\CheckCard.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\CheckCard\CheckCard\obj\Debug\netcoreapp3.1\CheckCard.AssemblyInfoInputs.cache
+E:\.net\CheckCard\CheckCard\obj\Debug\netcoreapp3.1\CheckCard.AssemblyInfo.cs
+E:\.net\CheckCard\CheckCard\obj\Debug\netcoreapp3.1\CheckCard.csproj.CoreCompileInputs.cache
+E:\.net\CheckCard\CheckCard\obj\Debug\netcoreapp3.1\CheckCard.dll
+E:\.net\CheckCard\CheckCard\obj\Debug\netcoreapp3.1\CheckCard.pdb
+E:\.net\CheckCard\CheckCard\obj\Debug\netcoreapp3.1\CheckCard.genruntimeconfig.cache
